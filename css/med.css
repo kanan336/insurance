@@ -1,0 +1,67 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 16, 2022, 12:53:08 PM
+    Author     : sigortamgroup
+*/
+
+
+
+@media (min-width: 768px) {
+.bd-placeholder-img-lg {
+font-size: 3.5rem;
+}
+}
+
+
+@media (min-width: 1280px) {
+.bd-placeholder-img-lg {
+font-size: 3.5rem;
+}
+
+
+.menutop{
+z-index: 100;
+position: fixed;
+width: 90%;
+left: 5%;
+top: 125px;
+height: 78px;
+padding: 10px;
+background-color: whitesmoke;
+border-radius: 50px;
+}
+
+
+.logo3{
+position: relative;
+left:105px;
+bottom: 20px;
+}
+
+.menucontact{
+width: 22%;
+float: left;
+padding: 10px;
+align-items: center;
+border-right-style: solid;
+border-bottom-style: dotted;
+border-left-style: solid;
+border-top-style: dotted;
+color: white;
+font-size: 20px;
+}
+
+.maincontact {
+width: 75%;
+float: left;
+padding: 10px;
+color: white
+}
+
+
+
+}
